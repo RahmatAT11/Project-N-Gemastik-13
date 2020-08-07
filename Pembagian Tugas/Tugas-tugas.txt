@@ -1,0 +1,13 @@
+Thifah, setuju ga lu kalo tugas-tugasnya dibagi kayak dibawah ?
+
+Tugas untuk rahmat
+- Menjadi programmer, semua implementasi game dari UI, sampai gameplay dipegang sama Rahmat.
+- Membuat asset game.
+- Membuat game design document.
+- Membuat proposal yang dikumpulin sebagai persyaratan babak penyisihan
+
+Tugas untuk Athifah
+- Membuat asset game, terutama asset 2D.
+- Membuat game concept untuk karakter, environtment, item, dkk.
+- Mengedit video demo game untuk babak penyisihan.
+- Membuat proposal yang dikumpulin sebagai persyaratan babak penyisihan
