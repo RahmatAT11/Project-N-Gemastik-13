@@ -12,8 +12,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Stage_Select_Menu.unity
     guid: 19e3caed82ba4464380d07a0baa6849c
   - enabled: 1
-    path: Assets/Scenes/Stage1_Level_Select_Menu.unity
-    guid: 22c1ba9a0d79f764187ab88a6db712a9
+    path: Assets/Scenes/Stage_()_Level_().unity
+    guid: 388df6070cd5d2043bbf0004bcd9389e
+  - enabled: 1
+    path: Assets/Scenes/Challenge_Mode.unity
+    guid: f9e3e5ae47e78dc45bcec4170a679582
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: cf7569b12b125944d8909d66a796c8c8,
       type: 2}
